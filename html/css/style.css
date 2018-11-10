@@ -37,7 +37,7 @@ h1 {
   box-shadow: 12px 15px 20px 0px rgba(46, 61, 73, 0.5);
 }
 .Playground .box {
-  height: 150px;
+  height: 75px;
   width: 150px;
   background: #004d40;
   display: inline-block;
@@ -73,7 +73,7 @@ h1 {
   }
 
   .Playground {
-    width: 390px;
+    width: 350px;
   }
 }
 
